@@ -1,4 +1,4 @@
-#poker game in C
+#poker game in C++
 
 Programming Assignment I did for my Software Engineering class. This Assignment was just a warm up to the project. I got a 100%
 on this assignment.
